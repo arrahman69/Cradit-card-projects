@@ -24,7 +24,7 @@ https://iridescent-dieffenbachia-d76c02.netlify.app/.
 
 Clone the repository
 
-git clone https://github.com/arrahman69/credit-card-project.git
+git clone https://github.com/the-abdurahman-01/credit-card-project.git
 
 
 Navigate to the project folder
